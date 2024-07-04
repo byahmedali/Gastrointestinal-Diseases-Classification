@@ -37,10 +37,10 @@ This code is used to plot the accuracy scores across epochs during the training 
 The directories and notebooks can be executed independently of each other. It is not mandatory to follow the order listed above.
 
 1. **Separating 10% Data for Testing**:
-   - Run the notebooks in this directory to partition your dataset appropriately.
+   - Run the notebooks in this directory to partition the dataset appropriately.
    
 2. **Model Training and Testing**:
-   - Use the notebooks in this directory to train and validate your models. Follow the naming convention to understand the configurations and datasets used.
+   - Use the notebooks in this directory to train and validate the models. Follow the naming convention to understand the configurations and datasets used.
    
 3. **Plotting Results**:
    - Run the notebooks in this directory to visualize the training and validation accuracy over epochs.
