@@ -45,7 +45,7 @@ The directories and notebooks can be executed independently of each other. It is
 3. **Plotting Results**:
    - Run the notebooks in this directory to visualize the training and validation accuracy over epochs.
 
-## Acknowledgements
+## Source Data
 
 - [Kvasir Dataset](https://datasets.simula.no/kvasir/)
 - [Hyper Kvasir Dataset](https://datasets.simula.no/hyper-kvasir/)
