@@ -1,6 +1,6 @@
-![Worflow Figure](workflow-fig.png)
+# Gastrointestinal Diseases Classification
 
-# Gastrointestinal Diseases Classification using Deep Learning
+![Worflow Figure](workflow-fig.png)
 
 This repository contains Python Jupyter notebook files for a research project focused on the classification of gastrointestinal diseases using deep learning techniques. The code was developed using the free hardware resources provided by [Google Colab](https://colab.research.google.com/?hl=en-GB). The project is organized into three main directories, which can be used independently of each other.
 
